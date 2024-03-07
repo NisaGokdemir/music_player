@@ -20,7 +20,7 @@ This project is a simple music player that allows users to play, pause, and navi
 <img src="./media/player.png" alt="" width="300" height="400">
 
 ## Live Demo 🌐
-Live Demo: 
+Live Demo: [Music Player Demo](https://music-player-peach-delta.vercel.app/)
 
 ## Installation
 No special installation is required for this project. Simply download the project files and open the `index.html` file in a web browser.
